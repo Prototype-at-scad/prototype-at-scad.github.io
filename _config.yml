@@ -3,6 +3,10 @@ title: Prototype
 description: The typography club at SCAD Savannah.
 instagram: pr_t_type
 
+# Mailing list: paste the beehiiv subscribe page link between the quotes.
+# Leave it empty and the "Join the mailing list" links stay hidden.
+newsletter: ""
+
 # Files GitHub should not publish as pages
 exclude:
   - README.md

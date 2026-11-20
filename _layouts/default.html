@@ -24,7 +24,7 @@
 
   <footer class="colophon">
     <p>Prototype, the typography club at SCAD Savannah. Tuesdays, 7:30 pm, Adler 133.</p>
-    <p><a href="https://www.instagram.com/{{ site.instagram }}/">Instagram @{{ site.instagram }}</a></p>
+    <p>{% if site.newsletter != "" %}<a href="{{ site.newsletter }}">Join the mailing list</a> · {% endif %}<a href="https://www.instagram.com/{{ site.instagram }}/">Instagram @{{ site.instagram }}</a></p>
     <p class="small">Motto borrowed from Luca Barcellona’s book <cite>Take Your Pleasure Seriously</cite>. Set in Instrument Serif and Instrument Sans (SIL Open Font License).</p>
   </footer>
 

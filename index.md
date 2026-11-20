@@ -17,6 +17,14 @@ Prototype is the typography club at SCAD Savannah. We draw letters by hand, set 
 
 Every Prototype event earns a sticker on your loyalty card. Regulars earn limited editions, starting with a zine.
 
+{% if site.newsletter != "" %}
+## Mailing list
+
+Workshops, calls and new issues of Bracket, in your inbox before they go anywhere else.
+
+<p><a class="button" href="{{ site.newsletter }}">Join the mailing list</a></p>
+{% endif %}
+
 ## Elsewhere
 
-Workshops, calls and work in progress go up first on [Instagram @pr_t_type](https://www.instagram.com/pr_t_type/).
+Work in progress goes up on [Instagram @pr_t_type](https://www.instagram.com/pr_t_type/).

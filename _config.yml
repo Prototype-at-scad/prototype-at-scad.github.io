@@ -1,0 +1,8 @@
+# Site settings. Officers: you rarely need to touch this file.
+title: Prototype
+description: The typography club at SCAD Savannah.
+instagram: pr_t_type
+
+# Files GitHub should not publish as pages
+exclude:
+  - README.md

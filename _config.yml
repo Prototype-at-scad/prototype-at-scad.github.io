@@ -5,7 +5,7 @@ instagram: pr_t_type
 
 # Mailing list: paste the beehiiv subscribe page link between the quotes.
 # Leave it empty and the "Join the mailing list" links stay hidden.
-newsletter: ""
+newsletter: "https://prototypes-newsletter.beehiiv.com/subscribe"
 
 # Files GitHub should not publish as pages
 exclude:
